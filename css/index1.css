@@ -1,0 +1,67 @@
+.colores{
+    color:#ecf0f3;
+    color:#cfe2f3;
+    color:#5e98ce;
+    color:#1369ab;
+    color:#0c1013;
+}
+#body{
+    background: #ecf0f3;
+}
+#logo-texto{
+    font-family: Nickainley;
+    font-size: 30px;
+}
+#navbar-texto{
+    font-size: 30px;  
+    font-family: Vevey;
+    color: #ecf0f3; 
+}
+
+#main .carousel-inner img{
+    max-height: 80vh;
+    object-fit: cover;
+    filter: contrast(60%);
+}
+#titulos{
+    font-family: Nickainley;
+    font-size: 50px;  
+}
+#subtitulos{
+    font-family: Vevey;
+    font-size: 15px;  
+    color: #ecf0f3;
+}
+#subtitulos-dark{
+    font-family: Vevey;
+    font-size: 30px;  
+    color: #0c1013;
+}
+#parrafos{
+    font-size: 15px;  
+    color: #ecf0f3;
+}
+#footer{
+    background:#0c1013;
+}
+
+.texto-footer { 
+    text-decoration: none;
+    color:#ecf0f3;
+    font-family: Vevey;
+    font-size: 30px;
+}
+#container-css{
+    background: #1369ab;
+}
+/*/sin interes/*/
+.imagen-sininteres{
+    object-fit: cover;
+    height: 400px;
+    width: 100%;
+}
+.carro{
+    height: 100px;
+    width: 150px;
+    
+}
